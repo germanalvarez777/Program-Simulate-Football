@@ -1,0 +1,77 @@
+{
+    "__class__": "ListaEstadios",
+    "estadios": [
+        {
+            "__class__": "Estadio",
+            "__atributos__": {
+                "nom": "Etihad Stadium",
+                "ciudad": "Manchester,Inglaterra",
+                "capacMax": 74932
+            }
+        },
+        {
+            "__class__": "Estadio",
+            "__atributos__": {
+                "nom": "Estadio El Monumental",
+                "ciudad": "Buenos Aires,Argentina",
+                "capacMax": 70192
+            }
+        },
+        {
+            "__class__": "Estadio",
+            "__atributos__": {
+                "nom": "Signal Iduna Park",
+                "ciudad": "Dormund,Alemania",
+                "capacMax": 64172
+            }
+        },
+        {
+            "__class__": "Estadio",
+            "__atributos__": {
+                "nom": "Camp Nou",
+                "ciudad": "Barcelona,Espa\u00f1a",
+                "capacMax": 87616
+            }
+        },
+        {
+            "__class__": "Estadio",
+            "__atributos__": {
+                "nom": "Allianz Arena Stadium",
+                "ciudad": "Munich,Alemania",
+                "capacMax": 78472
+            }
+        },
+        {
+            "__class__": "Estadio",
+            "__atributos__": {
+                "nom": "La Bombonera Stadium",
+                "ciudad": "Buenos Aires,Argentina",
+                "capacMax": 65718
+            }
+        },
+        {
+            "__class__": "Estadio",
+            "__atributos__": {
+                "nom": "Santiago Bernabeu",
+                "ciudad": "Madrid,Espa\u00f1a",
+                "capacMax": 85289
+            }
+        },
+        {
+            "__class__": "Estadio",
+            "__atributos__": {
+                "nom": "Giusepee Meazza Stadium",
+                "ciudad": "Milan,Italia",
+                "capacMax": 72932
+            }
+        },
+        {
+            "__class__": "Estadio",
+            "__atributos__": {
+                "nom": "Wanda Metropolitano Stadium",
+                "ciudad": "Madrid,Espa\u00f1a",
+                "capacMax": 81938
+            }
+        }
+    ]
+}
