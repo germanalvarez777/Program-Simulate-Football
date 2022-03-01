@@ -1,0 +1,115 @@
+{
+    "__class__": "ManejaArbitros",
+    "arbitros": [
+        {
+            "__class__": "Arbitro",
+            "__atributos__": {
+                "nom": "Sebastian",
+                "apell": "Gallese",
+                "nac": "Peru",
+                "edad": 39,
+                "anio": "2010",
+                "reemplazo": null
+            }
+        },
+        {
+            "__class__": "Arbitro",
+            "__atributos__": {
+                "nom": "Nestor",
+                "apell": "Pitana",
+                "nac": "Argentina",
+                "edad": 37,
+                "anio": 2006,
+                "reemplazo": null
+            }
+        },
+        {
+            "__class__": "Arbitro",
+            "__atributos__": {
+                "nom": "Mark",
+                "apell": "Howedes",
+                "nac": "Polonia",
+                "edad": 40,
+                "anio": 2008,
+                "reemplazo": null
+            }
+        },
+        {
+            "__class__": "Arbitro",
+            "__atributos__": {
+                "nom": "Hamsyk",
+                "apell": "Mariq",
+                "nac": "Albania",
+                "edad": 55,
+                "anio": 1998,
+                "reemplazo": null
+            }
+        },
+        {
+            "__class__": "Arbitro",
+            "__atributos__": {
+                "nom": "Bruninho",
+                "apell": "Talisca",
+                "nac": "Brasil",
+                "edad": 42,
+                "anio": 2011,
+                "reemplazo": null
+            }
+        },
+        {
+            "__class__": "Arbitro",
+            "__atributos__": {
+                "nom": "Xherdan",
+                "apell": "Dolberg",
+                "nac": "Suiza",
+                "edad": 47,
+                "anio": 2009,
+                "reemplazo": null
+            }
+        },
+        {
+            "__class__": "Arbitro",
+            "__atributos__": {
+                "nom": "Julio",
+                "apell": "Campdevilla",
+                "nac": "Espa\u00f1a",
+                "edad": 54,
+                "anio": 1997,
+                "reemplazo": null
+            }
+        },
+        {
+            "__class__": "Arbitro",
+            "__atributos__": {
+                "nom": "German",
+                "apell": "Delfino",
+                "nac": "Uruguay",
+                "edad": 48,
+                "anio": 2003,
+                "reemplazo": null
+            }
+        },
+        {
+            "__class__": "Arbitro",
+            "__atributos__": {
+                "nom": "Pierluigi",
+                "apell": "Collina",
+                "nac": "Italia",
+                "edad": 62,
+                "anio": 1993,
+                "reemplazo": null
+            }
+        },
+        {
+            "__class__": "Arbitro",
+            "__atributos__": {
+                "nom": "Patricio",
+                "apell": "Lasteu",
+                "nac": "Argentina",
+                "edad": 54,
+                "anio": 2004,
+                "reemplazo": null
+            }
+        }
+    ]
+}
